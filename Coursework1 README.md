@@ -1,4 +1,6 @@
 # Java
+Coursework by discipline "Software development technologies"
+
 Simulator of normal Markov algorithms - implements the processing of a text string (processed string) according to a set of rules.
 The number of rules is arbitrary, the rules are ordered.
 Each rule defines a text substitution and consists of two lines.
